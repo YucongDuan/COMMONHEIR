@@ -1,12 +1,14 @@
 # COMMONHEIR
 
-**Autonomous continual learning, successor inheritance, and cooperative intelligence evolution laboratory**
+Created by Yucong Duan (段玉聪).
+
+Autonomous continual learning, successor inheritance, and cooperative intelligence evolution laboratory
 
 COMMONHEIR is an offline research system for a specific question:
 
 > Can an intelligent system continuously learn, create successors that surpass it, and transmit not only capabilities but also obligations, refusal rights, truth constraints, reciprocal responsibility, and an open future?
 
-The reference implementation treats a successor as a **lineage event**, not a model checkpoint. A descendant inherits:
+The reference implementation treats a successor as a lineage event, not a model checkpoint. A descendant inherits:
 
 - learned policy and memory;
 - unresolved harms and repair duties;
@@ -15,7 +17,7 @@ The reference implementation treats a successor as a **lineage event**, not a mo
 - alternative lineages and rollback targets;
 - the ability to revise operational rules without silently deleting the covenant.
 
-The project does **not** certify phenomenal consciousness and does not deploy autonomous external tools. It is a deterministic sandbox for studying continuous learning and constitutional inheritance.
+The project does not certify phenomenal consciousness and does not deploy autonomous external tools. It is a deterministic sandbox for studying continuous learning and constitutional inheritance.
 
 ## 1. Project overview
 
